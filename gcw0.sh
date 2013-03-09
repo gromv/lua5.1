@@ -1,0 +1,1 @@
+make linux CC="/opt/gcw0-toolchain/usr/bin/mipsel-gcw0-linux-uclibc-gcc" AR="/opt/gcw0-toolchain/usr/bin/mipsel-gcw0-linux-uclibc-ar rcu" RANLIB="/opt/gcw0-toolchain/usr/bin/mipsel-gcw0-linux-uclibc-ranlib"
